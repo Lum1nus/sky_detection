@@ -20,7 +20,6 @@ dv = 40.0
 
 Pcol = np.zeros(lapl.shape)
 Ppos = np.zeros(lapl.shape)
-Psmo = np.zeros(lapl.shape)
 
 rows, cols = lapl.shape
 for i in range(rows):
